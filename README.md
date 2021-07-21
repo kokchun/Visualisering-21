@@ -1,5 +1,7 @@
 # Visualisering, presentation & storytelling (AI-21)
 
+## UNDER CONSTRUCTION
+
 This is a course with focus of learning concepts in visualising data and presenting it. Visualisation is crucial both for the data scientist to explore and make sense of the data to be able to answer important questions about the data. Also it is crucial for other team members, maangers and customers to easily understand the data and its characteristics. Hence this course will build upon prior knowledge in data processing using **pandas**.
 
 All lecture codes and exercises can be found in the course [Github repo][ghr].

@@ -25,12 +25,12 @@ All lecture codes and exercises can be found in the course [Github repo][ghr].
   
 <summary id="schedule">Click to see/hide schedule</summary>
 
-| Week  | Content                                                                                  |
-| :---: | ---------------------------------------------------------------------------------------- |
-|  47   | **matplotlib:** figure, axes, subplots, layout **seaborn:** scatter, line, distributions |
-|  48   | **plotly express:** different plots, **graph objects:** different plots, **lab1**        |
-|  49   | **dash:** layout, components, build dashboard, **lab1**                                  |
-|  50   | **seminar**                                                                              |
+| Week  | Content                                                                                     |
+| :---: | ------------------------------------------------------------------------------------------- |
+|  47   | **matplotlib:** fig obj, axes, subplots **seaborn:** scatter, line, distributions, **lab1** |
+|  48   | **plotly express:** different plots, **graph objects:** different plots, **lab1**           |
+|  49   | **dash:** layout, components, build dashboard, **lab1**                                     |
+|  50   | **seminar**                                                                                 |
 
 </details>
 
